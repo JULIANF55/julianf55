@@ -47,8 +47,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JULIANF55&show_icons=true&theme=dracula&hide_border=true&count_private=true&border_radius=10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JULIANF55&layout=compact&theme=dracula&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=julianf55&show_icons=true&theme=dracula&hide_border=true&count_private=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianf55&layout=compact&theme=dracula&hide_border=true&border_radius=10" />
 </p>
 
 
