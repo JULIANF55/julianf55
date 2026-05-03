@@ -46,11 +46,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JULIANF55&theme=dracula&hide_border=true&border_radius=10" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julianf55&show_icons=true&theme=dracula&hide_border=true&count_private=true&border_radius=10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianf55&layout=compact&theme=dracula&hide_border=true&border_radius=10" />
-</p>
-
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=2980B9,1a1a2e&height=100&section=footer)
